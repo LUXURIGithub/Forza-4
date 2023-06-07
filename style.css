@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(110, 110, 110);
+    color: rgb(255, 255, 255);
+    font-family: "Bahnschrift";
+}
+
+
+
+h1 {
+    font-size: 5rem;
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+
+}
+
+p {
+    text-align: left;
+    font-size: 3rem;
+    padding: 5%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    padding: 5%;
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    padding: 5%;
+}
+
+img {
+    flex: 0 0 auto;
+    width: 40%;
+    max-width: 720px;
+    height: auto;
+    padding: 5%;
+}
+
+h3 {
+    flex: 1 1 auto;
+    font-size: 3rem;
+    padding: 5%;
+    text-align: left;
+}
