@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100&display=swap');
+
 body {
     background-color: rgb(110, 110, 110);
     color: rgb(255, 255, 255);
-    font-family: "Bahnschrift";
+    font-family: 'Arima', cursive;
 }
 
 
